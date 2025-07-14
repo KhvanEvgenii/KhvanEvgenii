@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KhvanEvgenii
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning js
 - 📫 How to reach me ftinferno@gmail.com
 
 <!---
